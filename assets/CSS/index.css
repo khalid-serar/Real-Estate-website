@@ -3,6 +3,11 @@ body{
     padding: 0;
 }
 
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
 h1{
     font-family: 'Ubuntu', sans-serif;
     font-size: 4rem;
