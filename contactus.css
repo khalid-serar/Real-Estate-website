@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+Body{
+    background:white;
+    font-size: 15px;
+}
+.intro{
+    width: 80%;
+    margin: 50px auto;
+}
+
