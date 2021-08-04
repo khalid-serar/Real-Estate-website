@@ -32,7 +32,7 @@ it entalls apartments of various estates in nairobi including Westlands, Ruaka a
 
 ###### desighn of the project and where it is available
 
-![link](https://www.figma.com/file/DbNNd4hKe5S78yxEWmhBbB/Real-Estate-Website?node-id=0%3A1)
+[link](https://www.figma.com/file/DbNNd4hKe5S78yxEWmhBbB/Real-Estate-Website?node-id=0%3A1)
 
 
 ## built with
