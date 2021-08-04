@@ -46,9 +46,9 @@ it entalls apartments of various estates in nairobi including Westlands, Ruaka a
 
 
 ## support team for more information .
-*NAME - Ian wanjira*
-*EMAIL - ian.wanjira@student.moringaschool.com*
-*CONTACT - 0722222222* 
+*NAME - Ian wanjira*.
+*EMAIL - ian.wanjira@student.moringaschool.com*.
+*CONTACT - 0722222222*. 
 
 
 
