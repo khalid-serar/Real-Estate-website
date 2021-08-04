@@ -7,10 +7,10 @@ This website showcases vacant apartments and homes that may interest someone loo
 
 
 ## Names of the contributers
-1.Ian Wanjira  .group leader
-2.khalid serar
-3.diana Ondieki
-4.Nu Nure Tusa
+*1.Ian Wanjira  .group leader*
+*2.khalid serar*
+*3.diana Ondieki*
+*4.Nu Nure Tusa*
 
 # Setup/Installation Requirements
 1. Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
@@ -21,6 +21,9 @@ This website showcases vacant apartments and homes that may interest someone loo
 
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
 ### diescription of the project purpose
+This is a real Estate house hunting website
+ that will help solve the problem of getting houses, when one wants to relocate  or change estates .
+it entalls apartments of various estates in nairobi including Westlands, Ruaka and their prices and how to get intouch with the Agent.
 
 
 ##### live link of the website
@@ -28,20 +31,14 @@ This website showcases vacant apartments and homes that may interest someone loo
 
 
 ###### desighn of the project and where it is available
-This is a real Estate house hunting website
- that will help solve the problem of getting houses, when one wants to relocate  or change estates .
-it entalls apartments of various estates in nairobi including Westlands, Ruaka and their prices and how to get intouch with the Agent.
 
-
-
-
-![image](https://www.figma.com/file/DbNNd4hKe5S78yxEWmhBbB/Real-Estate-Website?node-id=0%3A1)
+![link](https://www.figma.com/file/DbNNd4hKe5S78yxEWmhBbB/Real-Estate-Website?node-id=0%3A1)
 
 
 ## built with
-1.html
-2.css
-3.java-script
+*1.html*
+*2.css*
+*3.java-script*
 
 
 
@@ -49,9 +46,9 @@ it entalls apartments of various estates in nairobi including Westlands, Ruaka a
 
 
 ## support team for more information .
-NAME - Ian wanjira
-EMAIL - ian.wanjira@student.moringaschool.com
-CONTACT - 0722222222 
+*NAME - Ian wanjira*
+*EMAIL - ian.wanjira@student.moringaschool.com*
+*CONTACT - 0722222222* 
 
 
 
@@ -72,6 +69,3 @@ If you’re a first time home buyer, talking with a bank before looking at homes
  *Of course you can, but the probability isn’t very high.*.
 4. **How is the neighborhood/area?**
 *the neighborhood/area it cool and silent.*
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
